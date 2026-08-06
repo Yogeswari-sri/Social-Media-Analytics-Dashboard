@@ -62,5 +62,27 @@ The insights below summarize **content performance, user trends, behavioral patt
 
 ---
 
-## 🚀 Recruiter Note
-This project demonstrates **data storytelling, visualization, and actionable insights** — skills directly applicable to analytics roles in **marketing, e‑commerce, and finance**.
+OUTPUT :
+
+<img width="660" height="554" alt="2" src="https://github.com/user-attachments/assets/7f95d66e-1c3e-454a-bb89-8c353be768c1" />
+
+<img width="840" height="596" alt="3" src="https://github.com/user-attachments/assets/42004d4f-70e3-4f9d-817b-1686e37268fd" />
+
+<img width="655" height="633" alt="4" src="https://github.com/user-attachments/assets/9c01588e-f4e3-414f-a758-9e56dc6756cb" />
+
+<img width="517" height="646" alt="5" src="https://github.com/user-attachments/assets/7041fce6-7842-4f10-803e-465142de6fcb" />
+
+<img width="568" height="541" alt="6" src="https://github.com/user-attachments/assets/eac6d721-b4d4-45d1-8241-978a0767c63a" />
+
+<img width="650" height="382" alt="7" src="https://github.com/user-attachments/assets/5a27736e-bdbb-4ccc-a731-aeee4428f83b" />
+
+<img width="712" height="495" alt="8" src="https://github.com/user-attachments/assets/a7405d93-3101-4bf2-b878-4f460234f87c" />
+
+<img width="703" height="394" alt="9" src="https://github.com/user-attachments/assets/4dcc2c7c-ff63-43d6-873a-434ce7fba9c2" />
+
+
+
+
+
+
+
